@@ -1,0 +1,12 @@
+*{
+  box-sizing: border-box;
+}
+h1{
+  color:red;
+}
+
+body{
+  background-image: url(photo.jpg);
+  background-size: cover;
+  color: white;
+}
